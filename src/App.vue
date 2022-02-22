@@ -1,6 +1,7 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+<div class="flex items-center  min-h-max  p-0 m-0">
   <SearchTab />
+</div>
 </template>
 
 <script>
